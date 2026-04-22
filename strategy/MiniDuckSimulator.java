@@ -1,7 +1,6 @@
 // Strategy Pattern - Defines a family of Algorithms , encapsulates each one, and makes them interchangable. 
 // Strategy lets the algorithm vary independently from the clients that use it.
 
-
 // Design principles :- 
 // 1. Separate out what varies and encapsulate it.
 // 2. Program to an interface not to an implementation
