@@ -18,6 +18,7 @@ public class StarbuzzCoffee {
         System.out.println(beverage.getDescription()+" $ "+beverage.cost());
 
         // todo - Factory and Builder pattern (better way of creating decorated objects)
+        // create factory to produce condiments 
         Beverage beverage2 = new DarkRoast();
         beverage2 = new Mocha(beverage2);
         beverage2 = new Soy(beverage2);
