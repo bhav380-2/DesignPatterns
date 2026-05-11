@@ -3,3 +3,4 @@
 2. Observer Pattern
 3. Decorator Pattern
 4. Factory Method Pattern
+5. Singleton Pattern
