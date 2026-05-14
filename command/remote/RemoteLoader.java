@@ -1,5 +1,21 @@
 package command.remote;
 
+/**
+ * Command Pattern - Encapsulates a request as an object thereby letting you parameterize
+ * client with differnt requests, queues or log requests and supports undoable
+ * operations.
+ * 
+ * Desgin Principles:-
+ * 1. Encapsulate what varies
+ * 2. Program to interface not implementation
+ * 3. Favor composition over inheritance
+ * 4. Strive for loosely coupled designed between objects that interact
+ * 5. Classes should be open for extension but closed for modification
+ * 6. Depend on abstraction, do not depend on concrete classes
+ */
+
+
+
 public class RemoteLoader {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package decorator.starbuzz;
 
-// Decorator - Attach additional responsibilities to an object dynamically
+// Decorator Pattern - Attach additional responsibilities to an object dynamically
 // Provides flexible alternative to subclassing for extending functionality.
 
 // Design Principles :-
