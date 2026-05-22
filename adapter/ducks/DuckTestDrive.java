@@ -4,6 +4,21 @@ import adapter.ducks.challenge.Drone;
 import adapter.ducks.challenge.DroneAdapter;
 import adapter.ducks.challenge.SuperDrone;
 
+/**
+ * 
+ * Adapter Pattern - Converts the interface of a class into another interface clients expects.
+ * Lets classes work together that couldn't otherwise because of incompatible interfaces.
+ * 
+ * Design Principles -
+ * 1. Encapsulate what varies
+ * 2. Favor composition over inheritance
+ * 3. Program to an interface not implementation
+ * 4. Strive for loosely coupled design between objects that interface
+ * 5. Classes should be open for extension but closed for modification
+ * 6. Do not depend on concrete classes. Depend on abstraction
+ * 7. Principle of least knowledge. Talk only to your immediate friends.
+ */
+
 public class DuckTestDrive{
 
     public static void main(String[] args) {

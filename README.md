@@ -15,6 +15,6 @@ Strategy lets the algorithm vary independently from the clients that use it.
 
 7. Command Pattern -  Encapsulates a request as an object thereby letting you parameterize client with differnt requests, queues or log requests and supports undoable operations.
 
-8. Adapter Pattern
+8. Adapter Pattern - Converts the interface of a class into another interface clients expects. Lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 9. Facade Pattern - Provides a unified interface to a set of interfaces in the subsystem. Facade defines a high level interface that makes the subsystem easier to use.
