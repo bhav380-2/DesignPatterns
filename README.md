@@ -14,3 +14,7 @@ Strategy lets the algorithm vary independently from the clients that use it.
 6. Singleton Pattern - Ensures a class has only one instance and provides a global point of access to it.
 
 7. Command Pattern -  Encapsulates a request as an object thereby letting you parameterize client with differnt requests, queues or log requests and supports undoable operations.
+
+8. Adapter Pattern
+
+9. Facade Pattern - Provides a unified interface to a set of interfaces in the subsystem. Facade defines a high level interface that makes the subsystem easier to use.
