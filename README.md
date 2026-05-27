@@ -22,3 +22,7 @@ Strategy lets the algorithm vary independently from the clients that use it.
 10. Template Method Pattern - Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 
 11. Iterator Pattern - Provides a way to access the elements of an aggregate object sequentially without exposing its underlying implementation.
+
+12. Composite Pattern - Composite Pattern - Compose objects into tree structures to represent part-whole hierarchies.Composite lets clients treat individual objects and object compositions uniformily.
+ 
+
