@@ -14,7 +14,7 @@ package iterator.dinermergercafe;
  * 6. Do not depend on concrete classes. Depend on abstraction
  * 7. Principle of least knowledge. Only talk to your immediate friends
  * 8. Hollywood Principle. Don't call use we'll call you
- * 9. Single Responsibility Principle. Clas should handle only one responsibility
+ * 9. Single Responsibility Principle. Class should handle only one responsibility
  * 
  */
 
