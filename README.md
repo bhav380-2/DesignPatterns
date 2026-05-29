@@ -24,6 +24,8 @@ Strategy lets the algorithm vary independently from the clients that use it.
 11. Iterator Pattern - Provides a way to access the elements of an aggregate object sequentially without exposing its underlying implementation.
 
 12. Composite Pattern - Composite Pattern - Compose objects into tree structures to represent part-whole hierarchies.Composite lets clients treat individual objects and object compositions uniformily.
+
+13. State Pattern - Allows an object to alter its behavior when its internal state changes. The object appears to change its class.
  
 
 # Design Principles
