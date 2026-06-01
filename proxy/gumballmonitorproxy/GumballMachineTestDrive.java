@@ -16,6 +16,8 @@ import java.rmi.*;
  8. Hollywood Principle. Don't call use we'll call you
  9. Single Responsibility Principle. Clas should handle only one responsibility
  * 
+ * (Remote Proxy)
+ * 
  */
 
 public class GumballMachineTestDrive {
