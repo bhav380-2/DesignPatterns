@@ -4,6 +4,9 @@ import java.net.*;
 import javax.swing.*;
 import java.util.*;
 
+/**
+ * Virtual proxy
+ */
 public class ImageProxyTestDrive {
 	ImageComponent imageComponent;
 	JFrame frame = new JFrame("Album Cover Viewer");
